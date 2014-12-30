@@ -2,7 +2,6 @@
 layout: post
 title:  "Moving to Jekyll and GitHub Pages"
 date:   2014-12-30 10:14:00
-categories: github jekyll wordpress
 ---
 
 After eight plus years of keeping a [WordPress](https://wordpress.org/) site I
